@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          20190924!
+          20190928!
         </p>
         <a
           className="App-link"
